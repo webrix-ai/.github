@@ -2,7 +2,7 @@
   <a href="https://www.webrix.ai?utm_source=github&utm_medium=readme&utm_campaign=mcp-gateway&utm_content=header_logo" target="_blank"><img height="96px" src="https://www.mcp-s.com/logo.png" alt="mcp-gateway logo" /></a>
 
 ---
-# Webrix · Where enterprises become AI-native
+# Webrix · The AI adoption infrastructure layer
 
 One secure MCP gateway that connects any AI agent to your internal and SaaS tools — with control, context, and governance. Deploy in minutes, scale with confidence.  
 ↗︎ https://webrix.ai
